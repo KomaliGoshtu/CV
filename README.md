@@ -1,4 +1,4 @@
-Komali Goshtu 
+**Komali Goshtu**
 +91 9030370333
 komali.gosthu55@gmail.com
 
