@@ -1,3 +1,6 @@
+Komali Goshtu 
++91 9030370333
+komali.gosthu55@gmail.com
 
 **Professional Summary**  
 Azure Data Engineer with 2+ years of experience in designing, developing, and optimizing scalable data solutions on cloud platforms. Proficient in PySpark for large-scale data processing and analytics, alongside expertise in Azure services such as Azure Data Factory, Azure Data Lake, and Azure Databricks. Strong foundation in ETL processes, data warehousing, and data visualization using Power BI. Passionate about leveraging data-driven insights to support business objectives and drive innovation.  
